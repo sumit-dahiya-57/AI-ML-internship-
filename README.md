@@ -1,2 +1,2 @@
 # AI-ML-internship-
-minor projext
+minor project : Income Classification using decision tree
